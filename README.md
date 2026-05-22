@@ -48,7 +48,7 @@ Scoreboard    Coverage
 
 ## Verification Architecture
 
-![Verification Architecture](Verification_architecture (2).png)
+![Verification Architecture](Verification_architecture.png)
 
 ---
 
@@ -126,7 +126,7 @@ Tracks functional coverage of:
 
 ## Verification Architecture
 
-![Verification Architecture](Verification_architecture (2).png)
+![Verification Architecture](Verification_architecture.png)
 
 ## Waveform Output
 
@@ -138,7 +138,7 @@ Tracks functional coverage of:
 
 ## Vivado RTL Schematic
 
-![RTL Schematic](Schematic (2).png)
+![RTL Schematic](Schematic.png)
 
 ## RTL and Scoreboard Code
 
